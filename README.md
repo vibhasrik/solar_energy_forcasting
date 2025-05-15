@@ -70,10 +70,10 @@ project-root/
    cd your-repo-name
 ```
 2. (Optional) Set up a virtual environment:
-   ``` bash
+``` bash
    python -m venv env
    source env/bin/activate  # or env\Scripts\activate on Windows
-   ```
+```
 3. Run analysis notebooks or scripts from the notebooks/ or scripts/ directory.
 
 ## Contact
