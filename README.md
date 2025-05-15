@@ -50,19 +50,6 @@ we aim to uncover patterns and relationships that help forecast solar energy pro
 
 ---
 
-## File Structure
-``` bash 
-project-root/
-│
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Jupyter notebooks for analysis and modeling
-├── scripts/ # Scripts for data preprocessing and visualization
-├── results/ # Outputs, charts, and findings
-└── README.md # This file
-```
-
----
-
 ## How to Run
 
 1. Clone the repository:
