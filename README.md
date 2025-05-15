@@ -64,6 +64,15 @@ we aim to uncover patterns and relationships that help forecast solar energy pro
 ```
 3. Run analysis notebooks or scripts from the notebooks/ or scripts/ directory.
 
+## Results
+
+We explored relationships between weather conditions and solar output using data from NOAA, USGS, and ECMWF. Our key findings:
+
+- **Temperature alone is not a good predictor**: Solar output did not peak during the hottest months, suggesting other factors (like cloud cover or panel efficiency) play a role.
+- **Very weak correlations** were observed between installed capacity, temperature, and day of year, reinforcing that capacity is infrastructure-dependent, not weather-sensitive.
+- **Short-term forecast simulations** using ECMWF data and a parabolic model showed peak output at moderate temperatures, with dips at both hot and cold extremes.
+
+
 ## Contact
 If you have any questions or would like to collaborate, feel free to reach out via GitHub or email.
 
