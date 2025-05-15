@@ -51,6 +51,7 @@ we aim to uncover patterns and relationships that help forecast solar energy pro
 ---
 
 ## File Structure
+``` bash 
 project-root/
 │
 ├── data/ # Raw and cleaned datasets
@@ -58,7 +59,7 @@ project-root/
 ├── scripts/ # Scripts for data preprocessing and visualization
 ├── results/ # Outputs, charts, and findings
 └── README.md # This file
-
+```
 
 ---
 
